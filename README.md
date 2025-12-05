@@ -15,20 +15,20 @@ Passionate about innovation and constantly exploring new technologies!
 - 👯 Looking to collaborate on exciting projects and ideas.
 - 🌱 Currently learning and mastering various technologies.
 - 💬 Ask me about JavaScript, Python, Java, React native, TypeScript, React JS, and more.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kuzhanthai-vel-38844024a/) and [Twitter](https://twitter.com/Kuzhant007).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kuzhanthai-vel-38844024a/) and [Twitter](https://x.com/SujithRaja_M).
 - 😄 Pronouns: He/Him
 - 💻 Reach me at **sujisuji20202020@gmail.com**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/SujithRaja-M)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/Kuzhant007" target="_blank">
+  <a href="https://x.com/SujithRaja_M" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kuzhant007" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/kuzhanthai-vel-38844024a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuzhanthai" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100068795503472" target="_blank">
+  <a href="https://www.facebook.com/chiyaan1430000" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100068795503472" height="30" width="40" />
   </a>
 </p>
@@ -46,7 +46,7 @@ Passionate about innovation and constantly exploring new technologies!
 <h2 align="left" id="favorite-tech">Favorite Tech</h2>
 <p align="left">Tools, languages, and other things that I like to work with.</p>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
@@ -143,7 +143,7 @@ Passionate about innovation and constantly exploring new technologies!
       <br>Solidity
     </td>
   </tr>
-</table>
+</table> -->
 
 ## Here are some 🦜 Party Parrots:
 
@@ -172,11 +172,6 @@ Passionate about innovation and constantly exploring new technologies!
   <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-
-
-<div align="center">
-  <h2><a href="https://connect-two-phi.vercel.app/">Connect with me</a></h2>
 </div>
 
 ---
